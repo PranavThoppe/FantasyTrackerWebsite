@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ ul.players-list li {
+  padding-bottom: 10px; /* Adds 10px of space inside the bottom of each list item */
+}
+
+div {
+ color: white;
+ background-color: black;
+}
+
+h2{
+  color: blueviolet;
+}
+
+h1{
+  color: silver;
+}
