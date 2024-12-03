@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ae9ebee7.css",
-    "main.js": "/react-gh-pages/static/js/main.acbd34c1.js",
-    "static/js/453.ad6eb26e.chunk.js": "/react-gh-pages/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ae9ebee7.css.map": "/react-gh-pages/static/css/main.ae9ebee7.css.map",
-    "main.acbd34c1.js.map": "/react-gh-pages/static/js/main.acbd34c1.js.map",
-    "453.ad6eb26e.chunk.js.map": "/react-gh-pages/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/FantasyTVTracker/static/css/main.ae9ebee7.css",
+    "main.js": "/FantasyTVTracker/static/js/main.19fc9fbf.js",
+    "static/js/453.ad6eb26e.chunk.js": "/FantasyTVTracker/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/FantasyTVTracker/index.html",
+    "main.ae9ebee7.css.map": "/FantasyTVTracker/static/css/main.ae9ebee7.css.map",
+    "main.19fc9fbf.js.map": "/FantasyTVTracker/static/js/main.19fc9fbf.js.map",
+    "453.ad6eb26e.chunk.js.map": "/FantasyTVTracker/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae9ebee7.css",
-    "static/js/main.acbd34c1.js"
+    "static/js/main.19fc9fbf.js"
   ]
 }
