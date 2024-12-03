@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FanatasyFootballTracker/static/css/main.ae9ebee7.css",
-    "main.js": "/FanatasyFootballTracker/static/js/main.672f7230.js",
-    "static/js/453.ad6eb26e.chunk.js": "/FanatasyFootballTracker/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/FanatasyFootballTracker/index.html",
-    "main.ae9ebee7.css.map": "/FanatasyFootballTracker/static/css/main.ae9ebee7.css.map",
-    "main.672f7230.js.map": "/FanatasyFootballTracker/static/js/main.672f7230.js.map",
-    "453.ad6eb26e.chunk.js.map": "/FanatasyFootballTracker/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/FantasyTrackerWebsite/static/css/main.ae9ebee7.css",
+    "main.js": "/FantasyTrackerWebsite/static/js/main.034c65c0.js",
+    "static/js/453.ad6eb26e.chunk.js": "/FantasyTrackerWebsite/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/FantasyTrackerWebsite/index.html",
+    "main.ae9ebee7.css.map": "/FantasyTrackerWebsite/static/css/main.ae9ebee7.css.map",
+    "main.034c65c0.js.map": "/FantasyTrackerWebsite/static/js/main.034c65c0.js.map",
+    "453.ad6eb26e.chunk.js.map": "/FantasyTrackerWebsite/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae9ebee7.css",
-    "static/js/main.672f7230.js"
+    "static/js/main.034c65c0.js"
   ]
 }
